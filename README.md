@@ -55,6 +55,7 @@ The following dependencies are required:
 - `react-native-screens`
 - `react-native-safe-area-context`
 - `react-native-uuid`
+- `react-native-gifted-chat`
 
 ## Installation
 
@@ -100,6 +101,11 @@ npm install @react-navigation/stack
 
 ```bash
 npm install react-native-uuid
+```
+- Gifted Chat (for the chat interface):
+
+```bash
+npm install react-native-gifted-chat
 ```
 ### Step 4: Install Navigation and Additional Dependencies
 
